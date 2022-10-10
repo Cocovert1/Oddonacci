@@ -1,0 +1,8 @@
+Oddonacci in 5 = 5 
+Oddonacci in 10 = 105 
+Oddonacci in 15 = 2209 
+Oddonacci in 20 = 46499 
+Oddonacci in 25 = 978793 
+Oddonacci in 30 = 20603361 
+Oddonacci in 35 = 433695873 
+Oddonacci in 40 = 9129195487 
